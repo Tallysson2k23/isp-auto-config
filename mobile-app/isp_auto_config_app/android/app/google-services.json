@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "964804322858",
+    "project_id": "isp-auto-config",
+    "storage_bucket": "isp-auto-config.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:964804322858:android:7fe9e392fe326ca2bd4553",
+        "android_client_info": {
+          "package_name": "com.example.isp_auto_config_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA1S8k6_58RrWvP7OgjrIl6IFn7OwjtvqI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

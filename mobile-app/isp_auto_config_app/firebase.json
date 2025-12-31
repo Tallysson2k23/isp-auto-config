@@ -1,0 +1,1 @@
+{"flutter":{"platforms":{"android":{"default":{"projectId":"isp-auto-config","appId":"1:964804322858:android:7fe9e392fe326ca2bd4553","fileOutput":"android/app/google-services.json"}},"dart":{"lib/firebase_options.dart":{"projectId":"isp-auto-config","configurations":{"android":"1:964804322858:android:7fe9e392fe326ca2bd4553","web":"1:964804322858:web:fdf26b98674c9aedbd4553"}}}}}}
